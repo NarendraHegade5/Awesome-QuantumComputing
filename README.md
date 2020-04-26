@@ -8,8 +8,8 @@ This repos records how I grow up in quantum computing.
 ---
 ## Online resource
 - [Quantum Computing Report](https://quantumcomputingreport.com/news/)
+- [StackExchange -- Quantum Computing](https://quantumcomputing.stackexchange.com/questions?sort=MostVotes&edited=true)
 - [arXiv ](https://arxiv.org/list/quant-ph/recent)
-
 
 ---
 ## Course
@@ -19,9 +19,9 @@ This repos records how I grow up in quantum computing.
 
 ---
 ## Textbook and online note
-1.
-1.
-1.
+1. Quantum Computation and Quantum Information -- Nielsen & Chuang
+1. [The Theory of Quantum Information -- John Watrous](https://cs.uwaterloo.ca/~watrous/TQI/)
+1. [Quantum Information Lecture Note -- John Preskill](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 1.
 
 
@@ -41,9 +41,3 @@ This repos records how I grow up in quantum computing.
 
 ---
 ## Paper
-
-
----
-## Code
-- [ ] VQE
-  - [x] MATLAB
