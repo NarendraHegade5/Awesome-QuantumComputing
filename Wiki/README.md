@@ -23,7 +23,8 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 - [x] [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
 - [x] [Trapped ion](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer)
 - [x] [Superconducting](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
-- [ ] []()
+- [ ] [QNN](https://en.wikipedia.org/wiki/Quantum_neural_network)
+- [ ] [Quantum machine learning](https://en.wikipedia.org/wiki/Quantum_machine_learning)
 
 ---
 ## Advanced topics
