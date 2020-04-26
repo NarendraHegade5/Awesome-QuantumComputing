@@ -7,6 +7,7 @@ This `.md` introduces what's the concept of VQE and various developed algorithms
 ## Paper
 - [x] [A variational eigenvalue solver on a quantum processor -- Peruzzo et al. (2013)](https://arxiv.org/abs/1304.3061)
 - [ ] [Hardware-efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets -- Kandala et al. (2017)](https://arxiv.org/abs/1704.05018)
+- [ ] [Strategies for quantum computing molecular energies using the unitary coupled cluster ansatz -- Romero et al. (2017)](https://arxiv.org/abs/1701.02691)
 - [x] [Quantum Circuit Learning -- Mitarai et al. (2018)](https://arxiv.org/abs/1803.00745)
 - [ ] [variational quantum computation of excited states -- Higgott et al. (2018)](https://arxiv.org/abs/1805.08138)
 - [x] [Subspace-search Variational Quantum Eigensolver for Excited States -- Nakanishi et al. (2018)](https://arxiv.org/abs/1810.09434)
@@ -24,7 +25,7 @@ This `.md` introduces what's the concept of VQE and various developed algorithms
 
 ---
 ## Stack Exchange
-- [ ] [What kind of real-world problems (excluding cryptography) can be solved efficiently by a quantum algorithm?](https://quantumcomputing.stackexchange.com/questions/2399/what-kind-of-real-world-problems-excluding-cryptography-can-be-solved-efficien/2401#2401)
+- [x] [What kind of real-world problems (excluding cryptography) can be solved efficiently by a quantum algorithm?](https://quantumcomputing.stackexchange.com/questions/2399/what-kind-of-real-world-problems-excluding-cryptography-can-be-solved-efficien/2401#2401)
 - [ ] [Is there a mistake in the VQE Ansatz in Cirq's tutorial?](https://quantumcomputing.stackexchange.com/questions/8694/is-there-a-mistake-in-the-vqe-ansatz-in-cirqs-tutorial)
 - [x] [Is VQE a class of algorithms or a specific algorithm?](https://quantumcomputing.stackexchange.com/questions/8566/is-vqe-a-class-of-algorithms-or-a-specific-algorithm/8569#8569)
 - [x] [Is there an intuition built on ansatz in VQE algorithm or is it more a trial and error approach?](https://quantumcomputing.stackexchange.com/questions/4074/is-there-an-intuition-built-on-ansatz-in-vqe-algorithm-or-is-it-more-a-trial-and) :star:
