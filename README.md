@@ -25,7 +25,9 @@ This repos records how I grow up in quantum computing.
 - [ ] [edX - MITOCW 8.371x Quantum Information Science II (2018)](https://courses.edx.org/courses/course-v1:MITx+8.371.1x+2T2018/course/)
 - [ ] [MITOCW 18.435J Quantum Computation -- Peter Shor (2003)](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [MITOCW MAS.865J Quantum Information Science -- Isaac Chuang (2006)](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/)
+- [ ] [MITOCW 6.050J Information and Entropy -- Seth Lloyd (2008)](https://www.youtube.com/watch?v=phxsQrZQupo&list=PLDDE03B3BDCA1D9B1)
 - [ ] [MITOCW 6.845 Quantum Complexity Theory -- Scott Aaronson (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-845-quantum-complexity-theory-fall-2010/)
+- [ ] [CS269Q Quantum Computer Programming (2019 Stanford)](https://cs269q.stanford.edu/)
 
 ---
 ## Coding
@@ -36,16 +38,20 @@ This repos records how I grow up in quantum computing.
 
 ---
 ## Textbook and online note
-1. Quantum Computation and Quantum Information -- Nielsen & Chuang
+1. [Quantum Computation and Quantum Information -- Nielsen & Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 1. [The Theory of Quantum Information -- John Watrous](https://cs.uwaterloo.ca/~watrous/TQI/)
 1. [Quantum Information Lecture Note -- John Preskill](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
-1.
+1. [CMU Quantum Computation Note](https://www.cs.cmu.edu/~odonnell/quantum15/)
 
 
 ---
 ## Talks
-- [ ] [Barren Plateau Issues for Variational Quantum-Classical Algorithms - Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)
-
+- [ ] [Quantum Computing -- John Preskill](https://www.youtube.com/watch?v=o3hHO3S8Unk&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=15)
+- [ ] [Q2B: Keynote -- John Preskill](https://www.youtube.com/watch?v=h4nUyF9cSaw&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=1)
+- [ ] [Barren Plateau Issues for Variational Quantum-Classical Algorithms -- Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)
+- [ ] [A Quantum Approximate Optimization Algorithm -- Eddie Farhi](https://www.youtube.com/watch?v=J8y0VhnISi8&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=6&t=0s)
+- [ ] [Quantum Computation for the Discovery of New Materials -- Jarrod McClean](https://www.youtube.com/watch?v=w7398u8G588)
+- [ ] [Essence of Quantum Computation -- Seth Lloyd](https://www.youtube.com/watch?v=M0R12fcTUvs)
 
 ---
 ## Summer school
@@ -57,8 +63,3 @@ This repos records how I grow up in quantum computing.
 ---
 ## Conference
 - [Listed by Quantum Technologies Lab at Univ. of Queensland](http://quantum.info/conf/2020.html)
-
-
-
----
-## Paper

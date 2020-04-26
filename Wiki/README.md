@@ -6,15 +6,32 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 ## Basic concepts
 - [x] [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - [x] [Qubit](https://en.wikipedia.org/wiki/Qubit)
-- [ ] [Ancilla bit](https://en.wikipedia.org/wiki/Ancilla_bit)
+- [x] [Bloch sphere](https://en.wikipedia.org/wiki/Bloch_sphere)
+- [x] [Ancilla bit](https://en.wikipedia.org/wiki/Ancilla_bit)
 - [x] [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
 - [x] [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 - [x] [Quantum operation](https://en.wikipedia.org/wiki/Quantum_operation)
+- [x] [Fidelity of states](https://en.wikipedia.org/wiki/Fidelity_of_quantum_states)
+- [x] [Trace distance](https://en.wikipedia.org/wiki/Trace_distance)
 
+---
+## Intermediate concepts
+- [ ] [Quantum decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence)
+- [ ] [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
+- [ ] [Quantum simulator](https://en.wikipedia.org/wiki/Quantum_simulator)
+- [x] [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
+- [x] [Trapped ion](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer)
+- [x] [Superconducting](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
+- [ ] []()
 
 ---
 ## Advanced topics
+- [ ] [Error correction](https://en.wikipedia.org/wiki/Error_detection_and_correction)
+- [ ] [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
+- [ ] [Entanglement distillation](https://en.wikipedia.org/wiki/Entanglement_distillation)
+- [x] [Relative entropy](https://en.wikipedia.org/wiki/Generalized_relative_entropy)
+- [ ] [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
 - [ ] [Quantum channel](https://en.wikipedia.org/wiki/Quantum_channel)
 - [x] [Channel-state duality](https://en.wikipedia.org/wiki/Channel-state_duality)
 - [x] [Diamond norm](https://en.wikipedia.org/wiki/Diamond_norm)
-- [ ] []()
+- [ ] [Computational complexity](https://en.wikipedia.org/wiki/Computational_complexity)
