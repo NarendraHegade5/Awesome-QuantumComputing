@@ -48,10 +48,10 @@ This repos records how I grow up in quantum computing.
 ## Talks
 - [ ] [Quantum Computing -- John Preskill](https://www.youtube.com/watch?v=o3hHO3S8Unk&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=15)
 - [ ] [Q2B: Keynote -- John Preskill](https://www.youtube.com/watch?v=h4nUyF9cSaw&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=1)
-- [ ] [Barren Plateau Issues for Variational Quantum-Classical Algorithms -- Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)
 - [ ] [A Quantum Approximate Optimization Algorithm -- Eddie Farhi](https://www.youtube.com/watch?v=J8y0VhnISi8&list=PLpQk8lG_JZSrgMdQK6Tibmk8EpISYak3P&index=6&t=0s)
 - [ ] [Quantum Computation for the Discovery of New Materials -- Jarrod McClean](https://www.youtube.com/watch?v=w7398u8G588)
 - [ ] [Essence of Quantum Computation -- Seth Lloyd](https://www.youtube.com/watch?v=M0R12fcTUvs)
+- [ ] [Quantum Machine Learning -- Seth Lloyd](https://www.youtube.com/watch?v=Lbndu5EIWvI)
 
 ---
 ## Summer school
