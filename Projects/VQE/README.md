@@ -6,6 +6,8 @@ This `.md` introduces what's the concept of VQE and various developed algorithms
 ---
 ## Paper
 - [x] [A variational eigenvalue solver on a quantum processor -- Peruzzo et al. (2013)](https://arxiv.org/abs/1304.3061)
+- [ ] [The theory of variational hybrid quantum-classical algorithms -- McClean et al. (2015)](https://arxiv.org/abs/1509.04279)
+- [ ] [Towards Practical Quantum Variational Algorithms --  Wecker et al. (2015)](https://arxiv.org/abs/1507.08969)
 - [ ] [Hardware-efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets -- Kandala et al. (2017)](https://arxiv.org/abs/1704.05018)
 - [ ] [Strategies for quantum computing molecular energies using the unitary coupled cluster ansatz -- Romero et al. (2017)](https://arxiv.org/abs/1701.02691)
 - [x] [Quantum Circuit Learning -- Mitarai et al. (2018)](https://arxiv.org/abs/1803.00745)
