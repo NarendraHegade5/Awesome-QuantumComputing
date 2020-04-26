@@ -30,7 +30,8 @@ This repos records how I grow up in quantum computing.
 - [ ] [CS269Q Quantum Computer Programming (2019 Stanford)](https://cs269q.stanford.edu/)
 
 ---
-## Coding
+## Quantum software
+- [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Projects](https://qosf.org/project_list/)
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum)
 - [Quantum Machine Learning with PennyLane](https://pennylane.ai/qml/) :star::star::star:
