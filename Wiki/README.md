@@ -16,6 +16,7 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 
 ---
 ## Intermediate concepts
+- [ ] [Quantum algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
 - [ ] [Quantum decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence)
 - [ ] [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
 - [ ] [Quantum simulator](https://en.wikipedia.org/wiki/Quantum_simulator)
