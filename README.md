@@ -1,4 +1,5 @@
-# Awesome-QuantumComputing
+# Awesome-QuantumComputing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This repos records how I grow up in quantum computing.
 
 ---
@@ -9,12 +10,28 @@ This repos records how I grow up in quantum computing.
 ## Online resource
 - [Quantum Computing Report](https://quantumcomputingreport.com/news/)
 - [StackExchange -- Quantum Computing](https://quantumcomputing.stackexchange.com/questions?sort=MostVotes&edited=true)
-- [arXiv ](https://arxiv.org/list/quant-ph/recent)
+- [arXiv daily update](https://arxiv.org/list/quant-ph/recent)
+- [Medium - Quantum Computing Series -- Jonathan Hui](https://medium.com/@jonathan_hui/qc-quantum-computing-series-10ddd7977abd) :star:
+- [Quantum computing for the very curious -- Michael Nielsen](https://quantum.country/qcvc)
+- [Making sense of popular QC articles -- Michał Stęchły](https://www.mustythoughts.com/post/making-sense-of-popular-qc-articles)
+- [Plot quantum circuit with Q-circuit in Latex](http://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf) :star:
+
 
 ---
 ## Course
-- [edX - Quantum Cryptography with Julia (Caltech + TU Delft)](https://www.edx.org/course/quantum-cryptography)
-- [Summer school](#Summer school)
+- [ ] [edX - Quantum Cryptography with Julia (Caltech + TU Delft)](https://www.edx.org/course/quantum-cryptography)
+- [ ] [edX - Quantum Machine Learning with Forest/Qiskit (2019)](https://github.com/kaminotesf/Quantum-Machine-Learning)
+- [ ] [edX - MITOCW 8.370x Quantum Information Science I (2018)](https://courses.edx.org/courses/course-v1:MITx+8.370.1x+1T2018/course/)
+- [ ] [edX - MITOCW 8.371x Quantum Information Science II (2018)](https://courses.edx.org/courses/course-v1:MITx+8.371.1x+2T2018/course/)
+- [ ] [MITOCW 18.435J Quantum Computation -- Peter Shor (2003)](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
+- [ ] [MITOCW MAS.865J Quantum Information Science -- Isaac Chuang (2006)](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/)
+- [ ] [MITOCW 6.845 Quantum Complexity Theory -- Scott Aaronson (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-845-quantum-complexity-theory-fall-2010/)
+
+---
+## Coding
+- [List of Open Quantum Projects](https://qosf.org/project_list/)
+- [TensorFlow Quantum](https://www.tensorflow.org/quantum)
+- [Quantum Machine Learning with PennyLane](https://pennylane.ai/qml/) :star::star::star:
 
 
 ---
@@ -26,6 +43,11 @@ This repos records how I grow up in quantum computing.
 
 
 ---
+## Talks
+- [ ] [Barren Plateau Issues for Variational Quantum-Classical Algorithms - Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)
+
+
+---
 ## Summer school
 - [Los Alamos Quantum Computing Summer School (2018-2019)](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/how-to-apply.php)
 - [Fudan University Quantum Computing Summer School (2019)](http://phys.fudan.edu.cn/9c/5b/c7453a171099/page.htm)
@@ -34,8 +56,7 @@ This repos records how I grow up in quantum computing.
 
 ---
 ## Conference
-- [x] [Listed by Quantum Technologies Lab at Univ. of Queensland](http://quantum.info/conf/2020.html)
-
+- [Listed by Quantum Technologies Lab at Univ. of Queensland](http://quantum.info/conf/2020.html)
 
 
 
