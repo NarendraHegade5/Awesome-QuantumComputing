@@ -13,8 +13,8 @@ This repos records how I grow up in quantum computing.
 - [arXiv daily update](https://arxiv.org/list/quant-ph/recent)
 - [Medium - Quantum Computing Series -- Jonathan Hui](https://medium.com/@jonathan_hui/qc-quantum-computing-series-10ddd7977abd) :star:
 - [Quantum computing for the very curious -- Michael Nielsen](https://quantum.country/qcvc)
-- [Making sense of popular QC articles -- Michał Stęchły](https://www.mustythoughts.com/post/making-sense-of-popular-qc-articles)
-- [Plot quantum circuit with Q-circuit in Latex](http://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf) :star:
+- [Making sense of popular QC articles -- Michał Stęchły](https://www.mustythoughts.com/post/making-sense-of-popular-qc-articles) :star:
+- [Plot quantum circuit with Q-circuit in Latex](http://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf)
 
 
 ---
