@@ -6,7 +6,7 @@ This `.md` introduces gradient-based methods in optimization loop and what's the
 ## Paper
 - [x] [Evaluating analytic gradients on quantum hardware --  Schuld et al. (2018)](https://arxiv.org/abs/1811.11184)
 - [x] [Barren plateaus in quantum neural network training landscapes -- McClean et al. (2018)](https://arxiv.org/abs/1803.11173)
-- [ ] [An initialization strategy for addressing barren plateaus in parametrized quantum circuits -- Grant et al. (2019)](https://arxiv.org/abs/1903.05076)
+- [x] [An initialization strategy for addressing barren plateaus in parametrized quantum circuits -- Grant et al. (2019)](https://arxiv.org/abs/1903.05076)
 - [ ] [Cost-Function-Dependent Barren Plateaus in Shallow Quantum Neural Networks -- Cerezo et al. (2020)](https://arxiv.org/abs/2001.00550)
 
 
