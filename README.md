@@ -31,7 +31,7 @@ This repos records how I grow up in quantum computing.
 
 ---
 ## Quantum software
-- [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
+- [Awesome quantum software](https://github.com/qosf/awesome-quantum-software) :star:
 - [List of Open Quantum Projects](https://qosf.org/project_list/)
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum)
 - [Quantum Machine Learning with PennyLane](https://pennylane.ai/qml/) :star::star::star:

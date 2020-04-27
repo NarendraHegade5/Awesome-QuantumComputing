@@ -5,6 +5,7 @@ This `.md` introduces what's the concept of quantum compiling especially through
 
 ---
 ## Paper
+- [x] [Optimal Quantum Circuits for General Two-Qubit Gates -- Vatan and Williams (2003)](https://arxiv.org/abs/quant-ph/0308006)
 - [x] [Quantum-assisted quantum compiling -- Khatri et al. (2018) ](https://arxiv.org/abs/1807.00800)
 - [ ] [Quantum circuit structure learning -- Ostaszewski et al. (2019)](https://arxiv.org/abs/1905.09692)
 - [x] [Noise resilience of variational quantum compiling -- Sharma et al. (2020) ](https://arxiv.org/abs/1908.04416)
@@ -26,3 +27,4 @@ This `.md` introduces what's the concept of quantum compiling especially through
 ---
 ## Talks
 - [x] [Noise Resilience of Variational Quantum Compiling -- Kunal Sharma](https://www.youtube.com/watch?v=lmuMEutDG3Y)
+- [ ] [Compiling Quantum Circuits to NISQ Devices](https://www.youtube.com/watch?v=IgS76yWT-dg)

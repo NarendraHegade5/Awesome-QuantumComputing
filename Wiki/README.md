@@ -28,6 +28,7 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 
 ---
 ## Advanced topics
+- [x] [Levi's lemma](https://en.wikipedia.org/wiki/Levi%27s_lemma)
 - [ ] [Error correction](https://en.wikipedia.org/wiki/Error_detection_and_correction)
 - [ ] [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
 - [ ] [Entanglement distillation](https://en.wikipedia.org/wiki/Entanglement_distillation)
