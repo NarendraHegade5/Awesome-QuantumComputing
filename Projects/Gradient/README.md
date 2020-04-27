@@ -12,16 +12,16 @@ This `.md` introduces gradient-based methods in optimization loop and what's the
 
 ---
 ## Blog
-- [ ] [Barren plateaus in quantum neural networks -- PennyLane](https://pennylane.ai/qml/demos/tutorial_barren_plateaus.html)
+- [x] [Barren plateaus in quantum neural networks -- PennyLane](https://pennylane.ai/qml/demos/tutorial_barren_plateaus.html)
 
 
 ---
 ## Stack Exchange
-- [ ] [Barren plateaus in quantum neural network training landscapes](https://quantumcomputing.stackexchange.com/questions/2306/barren-plateaus-in-quantum-neural-network-training-landscapes)
-- [ ] [Devising “structured initial guesses” for random parametrized quantum circuits to avoid getting stuck in a flat plateau](https://quantumcomputing.stackexchange.com/questions/2056/devising-structured-initial-guesses-for-random-parametrized-quantum-circuits-t)
+- [x] [Barren plateaus in quantum neural network training landscapes](https://quantumcomputing.stackexchange.com/questions/2306/barren-plateaus-in-quantum-neural-network-training-landscapes)
+- [x] [Devising “structured initial guesses” for random parametrized quantum circuits to avoid getting stuck in a flat plateau](https://quantumcomputing.stackexchange.com/questions/2056/devising-structured-initial-guesses-for-random-parametrized-quantum-circuits-t)
 
 
 
 ---
 ## Talks
-- [ ] [Barren Plateau Issues for Variational Quantum-Classical Algorithms -- Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)
+- [x] [Barren Plateau Issues for Variational Quantum-Classical Algorithms -- Patrick Coles](https://www.youtube.com/watch?v=ijY7WSa7u-4)

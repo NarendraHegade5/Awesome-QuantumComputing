@@ -23,6 +23,7 @@ This `.md` introduces what's the concept of VQE and various developed algorithms
 - [x] [Get Started VQE with Blueqat -- Yuichiro Minato](https://medium.com/@beef_and_rice/get-started-vqe-with-blueqat-2ef6a73bbaee)
 - [x] [Variational Quantum Eigensolver explained -- Michał Stęchły](https://www.mustythoughts.com/post/variational-quantum-eigensolver-explained) :star:
 - [x] [A brief overview of VQE -- PennyLane](https://pennylane.ai/qml/demos/tutorial_vqe.html)
+- [x] [Simulating Molecules using VQE -- Qiskit](https://qiskit.org/textbook/ch-applications/vqe-molecules.html)
 
 
 ---
