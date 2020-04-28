@@ -53,6 +53,7 @@ This repos records how I grow up in quantum computing.
 - [ ] [Quantum Computation for the Discovery of New Materials -- Jarrod McClean](https://www.youtube.com/watch?v=w7398u8G588)
 - [ ] [Essence of Quantum Computation -- Seth Lloyd](https://www.youtube.com/watch?v=M0R12fcTUvs)
 - [ ] [Quantum Machine Learning -- Seth Lloyd](https://www.youtube.com/watch?v=Lbndu5EIWvI)
+- [ ] [Machine Learning With Quantum Computers -- Maria Schuld](https://www.youtube.com/watch?v=uf_BRg5ovtg)
 
 ---
 ## Summer school
