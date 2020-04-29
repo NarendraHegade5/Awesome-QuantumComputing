@@ -1,4 +1,4 @@
-# Variational classifier
+# Variational Classifier
 This `.md` introduces what's so called variational classifier. If you are interested, please check the linked information.
 
 
@@ -12,10 +12,11 @@ This `.md` introduces what's so called variational classifier. If you are intere
 ---
 ## Blog
 - [ ] [Variational Classifier -- PennyLane](https://pennylane.ai/qml/demos/tutorial_variational_classifier.html)
+- [x] [Quantum embedding -- PennyLane](https://pennylane.ai/qml/glossary/quantum_embedding.html)
 
 
 
 
 ---
 ## Talks
-- [ ] 
+- [x] [Using Quantum Circuits as Machine Learning Models -- Maria Schuld (QHACK2019)](https://www.youtube.com/watch?v=7ALa_JZvV3o)
