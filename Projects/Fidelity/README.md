@@ -5,7 +5,7 @@ This `.md` introduces what's the concept of fidelity estimation. If you are inte
 
 ---
 ## Paper
-- [ ]
+- [x] [Variational Quantum Fidelity Estimation -- Cerezo et al. (2019)](https://arxiv.org/abs/1906.09253)
 
 
 ---
