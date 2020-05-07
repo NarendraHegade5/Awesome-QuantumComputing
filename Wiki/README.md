@@ -25,6 +25,8 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 - [x] [Superconducting](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
 - [ ] [QNN](https://en.wikipedia.org/wiki/Quantum_neural_network)
 - [ ] [Quantum machine learning](https://en.wikipedia.org/wiki/Quantum_machine_learning)
+- [ ] [Matrix decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition)
+- [ ] [Werner state](https://en.wikipedia.org/wiki/Werner_state)
 
 ---
 ## Advanced topics
