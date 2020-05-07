@@ -43,6 +43,7 @@ This repos records how I grow up in quantum computing.
 1. [The Theory of Quantum Information -- John Watrous](https://cs.uwaterloo.ca/~watrous/TQI/)
 1. [Quantum Information Lecture Note -- John Preskill](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 1. [CMU Quantum Computation Note](https://www.cs.cmu.edu/~odonnell/quantum15/)
+1. [ Quantum Channels -- Michael Wolf](https://www-m5.ma.tum.de/foswiki/pub/M5/Allgemeines/MichaelWolf/QChannelLecture.pdf)
 
 
 ---
