@@ -13,6 +13,10 @@ This `.md` file records useful concepts in quantum computing. If you are interes
 - [x] [Quantum operation](https://en.wikipedia.org/wiki/Quantum_operation)
 - [x] [Fidelity of states](https://en.wikipedia.org/wiki/Fidelity_of_quantum_states)
 - [x] [Trace distance](https://en.wikipedia.org/wiki/Trace_distance)
+- [x] [Werner state](https://en.wikipedia.org/wiki/Werner_state)
+- [x] [GHZ state](https://en.wikipedia.org/wiki/Greenberger%E2%80%93Horne%E2%80%93Zeilinger_state)
+- [ ] []()
+
 
 ---
 ## Intermediate concepts
