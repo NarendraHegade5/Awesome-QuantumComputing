@@ -9,8 +9,9 @@ This `.md` introduces the basic concepts of SVD. If you are interested, please c
 
 ---
 ## Blog
-
-
+- [ ] [Singular Value Decomposition: Reduced Density Matrix](http://cacs.usc.edu/education/phys516/04-2SVD.pdf)
+- [ ] [The Extraordinary SVD](https://people.maths.ox.ac.uk/porterm/papers/s4.pdf)
+- [x] [Image Compression using Singular Value Decomposition (SVD) -- Brady Mathews (2014)](http://www.math.utah.edu/~goller/F15_M2270/BradyMathews_SVDImage.pdf)
 
 ---
 ## Stack Exchange
